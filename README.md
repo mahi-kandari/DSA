@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahi-kandari/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/mahi-kandari/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0486-predict-the-winner](https://github.com/mahi-kandari/DSA/tree/master/0486-predict-the-winner) |
 | [1755-closest-subsequence-sum](https://github.com/mahi-kandari/DSA/tree/master/1755-closest-subsequence-sum) |
 ## Two Pointers
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahi-kandari/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/mahi-kandari/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mahi-kandari/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/mahi-kandari/DSA/tree/master/1755-closest-subsequence-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mahi-kandari/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
