@@ -1,18 +1,27 @@
 class Solution {
 public:
-    int missingInteger(vector<int>& A) {
-        int n = A.size();
-        unordered_set<int> seen(A.begin(), A.end());
-        int sum = A[0];
-
-        for (int i = 1; i < n; i++) {
-            if (A[i] == A[i - 1] + 1) sum += A[i];
-            else break;
+    bool search(int start, int ele, vector<int> & nums){
+        for(int i=start ; i<nums.size();i++){
+            if (nums[i]==ele) return true;
         }
-
-        while (seen.count(sum))
-            sum++;
-
-        return sum;
+        return false;
+    }
+    int missingInteger(vector<int>& nums) {
+        int sum =nums[0] , j=0,k=0, ind =0;
+        for(int i=1;i<nums.size();i++){
+            if (nums[i] == nums[j]+1 && j<nums.size()){
+                sum+= nums[i];
+                ind = i;
+                j++;
+            }
+            else{
+                break;
+            }
+            
+        }
+        while(search(0, sum+k,nums)){
+            k++;
+        }
+        return sum+k;
     }
 };
