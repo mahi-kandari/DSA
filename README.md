@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahi-kandari/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/mahi-kandari/DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/mahi-kandari/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mahi-kandari/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mahi-kandari/DSA/tree/master/0189-rotate-array) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahi-kandari/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/mahi-kandari/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mahi-kandari/DSA/tree/master/0189-rotate-array) |
 | [1755-closest-subsequence-sum](https://github.com/mahi-kandari/DSA/tree/master/1755-closest-subsequence-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mahi-kandari/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -90,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mahi-kandari/DSA/tree/master/0075-sort-colors) |
 | [1755-closest-subsequence-sum](https://github.com/mahi-kandari/DSA/tree/master/1755-closest-subsequence-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahi-kandari/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bitmask
@@ -156,4 +159,12 @@
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/mahi-kandari/DSA/tree/master/0355-design-twitter) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mahi-kandari/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mahi-kandari/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
