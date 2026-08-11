@@ -13,6 +13,7 @@
 | [0706-design-hashmap](https://github.com/mahi-kandari/DSA/tree/master/0706-design-hashmap) |
 | [1140-stone-game-ii](https://github.com/mahi-kandari/DSA/tree/master/1140-stone-game-ii) |
 | [1755-closest-subsequence-sum](https://github.com/mahi-kandari/DSA/tree/master/1755-closest-subsequence-sum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahi-kandari/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mahi-kandari/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0355-design-twitter](https://github.com/mahi-kandari/DSA/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/mahi-kandari/DSA/tree/master/0706-design-hashmap) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahi-kandari/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mahi-kandari/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/mahi-kandari/DSA/tree/master/1755-closest-subsequence-sum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahi-kandari/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bitmask
 |  |
 | ------- |
