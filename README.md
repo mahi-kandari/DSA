@@ -15,6 +15,7 @@
 | [0706-design-hashmap](https://github.com/mahi-kandari/DSA/tree/master/0706-design-hashmap) |
 | [1140-stone-game-ii](https://github.com/mahi-kandari/DSA/tree/master/1140-stone-game-ii) |
 | [1755-closest-subsequence-sum](https://github.com/mahi-kandari/DSA/tree/master/1755-closest-subsequence-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mahi-kandari/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahi-kandari/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@
 | [0169-majority-element](https://github.com/mahi-kandari/DSA/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/mahi-kandari/DSA/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/mahi-kandari/DSA/tree/master/0706-design-hashmap) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mahi-kandari/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahi-kandari/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mahi-kandari/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
@@ -185,4 +187,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahi-kandari/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mahi-kandari/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
