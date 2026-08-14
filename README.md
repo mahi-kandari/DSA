@@ -15,6 +15,7 @@
 | [0485-max-consecutive-ones](https://github.com/mahi-kandari/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/mahi-kandari/DSA/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/mahi-kandari/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0630-course-schedule-iii](https://github.com/mahi-kandari/DSA/tree/master/0630-course-schedule-iii) |
 | [0706-design-hashmap](https://github.com/mahi-kandari/DSA/tree/master/0706-design-hashmap) |
 | [1140-stone-game-ii](https://github.com/mahi-kandari/DSA/tree/master/1140-stone-game-ii) |
 | [1755-closest-subsequence-sum](https://github.com/mahi-kandari/DSA/tree/master/1755-closest-subsequence-sum) |
@@ -74,6 +75,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/mahi-kandari/DSA/tree/master/0630-course-schedule-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mahi-kandari/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mahi-kandari/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
@@ -113,6 +115,7 @@
 | [0075-sort-colors](https://github.com/mahi-kandari/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mahi-kandari/DSA/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/mahi-kandari/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0630-course-schedule-iii](https://github.com/mahi-kandari/DSA/tree/master/0630-course-schedule-iii) |
 | [1755-closest-subsequence-sum](https://github.com/mahi-kandari/DSA/tree/master/1755-closest-subsequence-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahi-kandari/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bitmask
@@ -182,6 +185,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mahi-kandari/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/mahi-kandari/DSA/tree/master/0355-design-twitter) |
+| [0630-course-schedule-iii](https://github.com/mahi-kandari/DSA/tree/master/0630-course-schedule-iii) |
 ## Quicksort
 |  |
 | ------- |
