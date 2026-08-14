@@ -135,6 +135,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mahi-kandari/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mahi-kandari/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -235,4 +236,16 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/mahi-kandari/DSA/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mahi-kandari/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mahi-kandari/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mahi-kandari/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
