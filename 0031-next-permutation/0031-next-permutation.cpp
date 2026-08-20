@@ -13,10 +13,9 @@ public:
             return;
         }
         for(int j=n-1;j>cp;j--){
-            if(nums[j]>nums[cp] && nums[j]<grt){
-                grt = nums[j];
+            if(nums[j]>nums[cp]){
                 swap(nums[cp],nums[j]);
-                
+                break;
             }
         }
         reverse(nums.begin()+cp+1,nums.end());
