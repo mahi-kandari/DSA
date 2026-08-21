@@ -22,6 +22,7 @@
 | [0630-course-schedule-iii](https://github.com/mahi-kandari/DSA/tree/master/0630-course-schedule-iii) |
 | [0706-design-hashmap](https://github.com/mahi-kandari/DSA/tree/master/0706-design-hashmap) |
 | [1140-stone-game-ii](https://github.com/mahi-kandari/DSA/tree/master/1140-stone-game-ii) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mahi-kandari/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mahi-kandari/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1755-closest-subsequence-sum](https://github.com/mahi-kandari/DSA/tree/master/1755-closest-subsequence-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahi-kandari/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
