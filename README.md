@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahi-kandari/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mahi-kandari/DSA/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/mahi-kandari/DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/mahi-kandari/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mahi-kandari/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/mahi-kandari/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mahi-kandari/DSA/tree/master/0075-sort-colors) |
@@ -63,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mahi-kandari/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mahi-kandari/DSA/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/mahi-kandari/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/mahi-kandari/DSA/tree/master/1140-stone-game-ii) |
@@ -268,5 +270,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mahi-kandari/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mahi-kandari/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
