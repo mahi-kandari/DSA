@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/mahi-kandari/DSA/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/mahi-kandari/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/mahi-kandari/DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/mahi-kandari/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mahi-kandari/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahi-kandari/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mahi-kandari/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -48,6 +49,7 @@
 | [0001-two-sum](https://github.com/mahi-kandari/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahi-kandari/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahi-kandari/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/mahi-kandari/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mahi-kandari/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mahi-kandari/DSA/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/mahi-kandari/DSA/tree/master/0355-design-twitter) |
@@ -263,4 +265,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mahi-kandari/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/mahi-kandari/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
