@@ -3,16 +3,26 @@ public:
     int strStr(string haystack, string needle) {
         int m = haystack.size();
         int n = needle.size();
-        for(int i =0;i<m;i++){
-            for(int j =i,k=0;j<m;j++,k++){
-                if(haystack[j]!=needle[k]) break;
-                if(k == n-1){
-                    return i;
-                } 
+        int start =0,i=0,j=0;
+        bool found  = false;
+        while(i<m){
+            if (haystack[i] == needle[j]){
+                i++;
+                j++;
+                if(j == n){
+                    found = true;
+                    break;
+                }
             }
-            
+            else{
+                
+                start++;
+                i= start;
+                j=0;
+            }
         }
-        return -1 ;
+        if(found) return start;
+        else return -1;
     }
 }
 
