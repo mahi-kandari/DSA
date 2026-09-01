@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/mahi-kandari/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mahi-kandari/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mahi-kandari/DSA/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/mahi-kandari/DSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/mahi-kandari/DSA/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/mahi-kandari/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/mahi-kandari/DSA/tree/master/0485-max-consecutive-ones) |
@@ -55,6 +56,7 @@
 | [0073-set-matrix-zeroes](https://github.com/mahi-kandari/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mahi-kandari/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mahi-kandari/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mahi-kandari/DSA/tree/master/0229-majority-element-ii) |
 | [0355-design-twitter](https://github.com/mahi-kandari/DSA/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/mahi-kandari/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/mahi-kandari/DSA/tree/master/0706-design-hashmap) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mahi-kandari/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mahi-kandari/DSA/tree/master/0229-majority-element-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mahi-kandari/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
@@ -141,6 +144,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/mahi-kandari/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mahi-kandari/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mahi-kandari/DSA/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/mahi-kandari/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0630-course-schedule-iii](https://github.com/mahi-kandari/DSA/tree/master/0630-course-schedule-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mahi-kandari/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -233,6 +237,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mahi-kandari/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mahi-kandari/DSA/tree/master/0229-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
