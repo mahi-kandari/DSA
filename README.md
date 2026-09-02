@@ -43,6 +43,7 @@
 | [0075-sort-colors](https://github.com/mahi-kandari/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mahi-kandari/DSA/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/mahi-kandari/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0647-palindromic-substrings](https://github.com/mahi-kandari/DSA/tree/master/0647-palindromic-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mahi-kandari/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1755-closest-subsequence-sum](https://github.com/mahi-kandari/DSA/tree/master/1755-closest-subsequence-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahi-kandari/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -81,6 +82,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahi-kandari/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahi-kandari/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/mahi-kandari/DSA/tree/master/0072-edit-distance) |
+| [0647-palindromic-substrings](https://github.com/mahi-kandari/DSA/tree/master/0647-palindromic-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mahi-kandari/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mahi-kandari/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mahi-kandari/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -117,6 +119,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahi-kandari/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/mahi-kandari/DSA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/mahi-kandari/DSA/tree/master/0486-predict-the-winner) |
+| [0647-palindromic-substrings](https://github.com/mahi-kandari/DSA/tree/master/0647-palindromic-substrings) |
 | [1140-stone-game-ii](https://github.com/mahi-kandari/DSA/tree/master/1140-stone-game-ii) |
 | [1755-closest-subsequence-sum](https://github.com/mahi-kandari/DSA/tree/master/1755-closest-subsequence-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mahi-kandari/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
