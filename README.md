@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/mahi-kandari/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahi-kandari/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mahi-kandari/DSA/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/mahi-kandari/DSA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/mahi-kandari/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mahi-kandari/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mahi-kandari/DSA/tree/master/0053-maximum-subarray) |
@@ -274,6 +275,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mahi-kandari/DSA/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/mahi-kandari/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mahi-kandari/DSA/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/mahi-kandari/DSA/tree/master/0704-binary-search) |
