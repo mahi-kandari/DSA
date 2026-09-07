@@ -93,6 +93,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahi-kandari/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahi-kandari/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/mahi-kandari/DSA/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/mahi-kandari/DSA/tree/master/0115-distinct-subsequences) |
 | [0647-palindromic-substrings](https://github.com/mahi-kandari/DSA/tree/master/0647-palindromic-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mahi-kandari/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mahi-kandari/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/mahi-kandari/DSA/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/mahi-kandari/DSA/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/mahi-kandari/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/mahi-kandari/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahi-kandari/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/mahi-kandari/DSA/tree/master/0300-longest-increasing-subsequence) |
