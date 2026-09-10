@@ -95,6 +95,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahi-kandari/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mahi-kandari/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahi-kandari/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahi-kandari/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/mahi-kandari/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/mahi-kandari/DSA/tree/master/0115-distinct-subsequences) |
@@ -300,6 +301,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mahi-kandari/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -338,4 +340,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mahi-kandari/DSA/tree/master/0005-longest-palindromic-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
