@@ -41,6 +41,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/mahi-kandari/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1755-closest-subsequence-sum](https://github.com/mahi-kandari/DSA/tree/master/1755-closest-subsequence-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahi-kandari/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/mahi-kandari/DSA/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mahi-kandari/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mahi-kandari/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahi-kandari/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
