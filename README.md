@@ -57,6 +57,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahi-kandari/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mahi-kandari/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mahi-kandari/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/mahi-kandari/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mahi-kandari/DSA/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/mahi-kandari/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/mahi-kandari/DSA/tree/master/0647-palindromic-substrings) |
@@ -104,6 +105,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahi-kandari/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/mahi-kandari/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/mahi-kandari/DSA/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/mahi-kandari/DSA/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/mahi-kandari/DSA/tree/master/0647-palindromic-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mahi-kandari/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mahi-kandari/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
