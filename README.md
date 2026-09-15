@@ -89,6 +89,7 @@
 | [0069-sqrtx](https://github.com/mahi-kandari/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mahi-kandari/DSA/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/mahi-kandari/DSA/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/mahi-kandari/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/mahi-kandari/DSA/tree/master/1140-stone-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mahi-kandari/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mahi-kandari/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -370,4 +371,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mahi-kandari/DSA/tree/master/0069-sqrtx) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/mahi-kandari/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
