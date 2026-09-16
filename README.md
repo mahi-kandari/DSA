@@ -26,6 +26,7 @@
 | [0162-find-peak-element](https://github.com/mahi-kandari/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mahi-kandari/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mahi-kandari/DSA/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mahi-kandari/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/mahi-kandari/DSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/mahi-kandari/DSA/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/mahi-kandari/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -175,6 +176,7 @@
 | [0015-3sum](https://github.com/mahi-kandari/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/mahi-kandari/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mahi-kandari/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mahi-kandari/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/mahi-kandari/DSA/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/mahi-kandari/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0630-course-schedule-iii](https://github.com/mahi-kandari/DSA/tree/master/0630-course-schedule-iii) |
@@ -248,6 +250,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mahi-kandari/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/mahi-kandari/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/mahi-kandari/DSA/tree/master/0355-design-twitter) |
 | [0630-course-schedule-iii](https://github.com/mahi-kandari/DSA/tree/master/0630-course-schedule-iii) |
@@ -265,6 +268,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/mahi-kandari/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/mahi-kandari/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mahi-kandari/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mahi-kandari/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/mahi-kandari/DSA/tree/master/0493-reverse-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -377,4 +381,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mahi-kandari/DSA/tree/master/0836-rectangle-overlap) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mahi-kandari/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
