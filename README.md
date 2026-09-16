@@ -39,6 +39,7 @@
 | [0704-binary-search](https://github.com/mahi-kandari/DSA/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/mahi-kandari/DSA/tree/master/0706-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/mahi-kandari/DSA/tree/master/0875-koko-eating-bananas) |
+| [1046-last-stone-weight](https://github.com/mahi-kandari/DSA/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/mahi-kandari/DSA/tree/master/1140-stone-game-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mahi-kandari/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mahi-kandari/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -254,6 +255,7 @@
 | [0295-find-median-from-data-stream](https://github.com/mahi-kandari/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/mahi-kandari/DSA/tree/master/0355-design-twitter) |
 | [0630-course-schedule-iii](https://github.com/mahi-kandari/DSA/tree/master/0630-course-schedule-iii) |
+| [1046-last-stone-weight](https://github.com/mahi-kandari/DSA/tree/master/1046-last-stone-weight) |
 ## Quicksort
 |  |
 | ------- |
