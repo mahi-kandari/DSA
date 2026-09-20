@@ -42,6 +42,7 @@
 | [0875-koko-eating-bananas](https://github.com/mahi-kandari/DSA/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/mahi-kandari/DSA/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/mahi-kandari/DSA/tree/master/1140-stone-game-ii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mahi-kandari/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mahi-kandari/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mahi-kandari/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1755-closest-subsequence-sum](https://github.com/mahi-kandari/DSA/tree/master/1755-closest-subsequence-sum) |
@@ -320,6 +321,7 @@
 | [0493-reverse-pairs](https://github.com/mahi-kandari/DSA/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/mahi-kandari/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mahi-kandari/DSA/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mahi-kandari/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Stack
 |  |
 | ------- |
