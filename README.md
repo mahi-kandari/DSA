@@ -52,6 +52,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahi-kandari/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/mahi-kandari/DSA/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mahi-kandari/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mahi-kandari/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahi-kandari/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mahi-kandari/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -209,10 +210,12 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/mahi-kandari/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Graph Theory
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/mahi-kandari/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Database
 |  |
 | ------- |
@@ -264,6 +267,7 @@
 | [0355-design-twitter](https://github.com/mahi-kandari/DSA/tree/master/0355-design-twitter) |
 | [0630-course-schedule-iii](https://github.com/mahi-kandari/DSA/tree/master/0630-course-schedule-iii) |
 | [1046-last-stone-weight](https://github.com/mahi-kandari/DSA/tree/master/1046-last-stone-weight) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Quicksort
 |  |
 | ------- |
@@ -351,6 +355,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/mahi-kandari/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mahi-kandari/DSA/tree/master/0073-set-matrix-zeroes) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## String Matching
 |  |
 | ------- |
@@ -418,4 +423,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mahi-kandari/DSA/tree/master/0239-sliding-window-maximum) |
+## Shortest Path
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## 0-1 BFS
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
