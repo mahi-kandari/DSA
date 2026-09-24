@@ -53,6 +53,7 @@
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/mahi-kandari/DSA/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mahi-kandari/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2402-meeting-rooms-iii](https://github.com/mahi-kandari/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mahi-kandari/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahi-kandari/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mahi-kandari/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -88,6 +89,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/mahi-kandari/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/mahi-kandari/DSA/tree/master/0706-design-hashmap) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mahi-kandari/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2402-meeting-rooms-iii](https://github.com/mahi-kandari/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mahi-kandari/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahi-kandari/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mahi-kandari/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -196,6 +198,7 @@
 | [0630-course-schedule-iii](https://github.com/mahi-kandari/DSA/tree/master/0630-course-schedule-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mahi-kandari/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1755-closest-subsequence-sum](https://github.com/mahi-kandari/DSA/tree/master/1755-closest-subsequence-sum) |
+| [2402-meeting-rooms-iii](https://github.com/mahi-kandari/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahi-kandari/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bitmask
 |  |
@@ -274,6 +277,7 @@
 | [0630-course-schedule-iii](https://github.com/mahi-kandari/DSA/tree/master/0630-course-schedule-iii) |
 | [1046-last-stone-weight](https://github.com/mahi-kandari/DSA/tree/master/1046-last-stone-weight) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2402-meeting-rooms-iii](https://github.com/mahi-kandari/DSA/tree/master/2402-meeting-rooms-iii) |
 ## Quicksort
 |  |
 | ------- |
@@ -323,6 +327,7 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahi-kandari/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2402-meeting-rooms-iii](https://github.com/mahi-kandari/DSA/tree/master/2402-meeting-rooms-iii) |
 | [3498-reverse-degree-of-a-string](https://github.com/mahi-kandari/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
