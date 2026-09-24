@@ -117,6 +117,7 @@
 | [0125-valid-palindrome](https://github.com/mahi-kandari/DSA/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/mahi-kandari/DSA/tree/master/0647-palindromic-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mahi-kandari/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mahi-kandari/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mahi-kandari/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -346,6 +347,7 @@
 | [0020-valid-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mahi-kandari/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -389,6 +391,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Indexed Tree
 |  |
 | ------- |
