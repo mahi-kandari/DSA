@@ -37,6 +37,7 @@
 | [0485-max-consecutive-ones](https://github.com/mahi-kandari/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/mahi-kandari/DSA/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/mahi-kandari/DSA/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/mahi-kandari/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mahi-kandari/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0630-course-schedule-iii](https://github.com/mahi-kandari/DSA/tree/master/0630-course-schedule-iii) |
 | [0704-binary-search](https://github.com/mahi-kandari/DSA/tree/master/0704-binary-search) |
@@ -362,6 +363,7 @@
 | [0020-valid-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mahi-kandari/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/mahi-kandari/DSA/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -486,4 +488,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/mahi-kandari/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/mahi-kandari/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
