@@ -1,29 +1,26 @@
 class Solution {
 public:
-    std::string longestPalindrome(std::string s) {
-        if (s.length() <= 1) {
-            return s;
+    int expand(string s, int left, int right){   
+        while(left>=0 && right<s.size() && s[left] == s[right]){
+            
+                left--;
+                right++;
+            
         }
-        
-        int max_len = 1;
-        int start = 0;
-        int end = 0;
-        std::vector<std::vector<bool>> dp(s.length(), std::vector<bool>(s.length(), false));
-        
-        for (int i = 0; i < s.length(); ++i) {
-            dp[i][i] = true;
-            for (int j = 0; j < i; ++j) {
-                if (s[j] == s[i] && (i - j <= 2 || dp[j + 1][i - 1])) {
-                    dp[j][i] = true;
-                    if (i - j + 1 > max_len) {
-                        max_len = i - j + 1;
-                        start = j;
-                        end = i;
-                    }
-                }
+        return right - left-1;
+    }
+    string longestPalindrome(string s) {
+        int maxlen =1;
+        int len ,  start=0;
+        for(int i = 0;i<s.length();i++){
+            int oddP = expand(s,i,i);
+            int evenP = expand(s,i,i+1);
+            len = max(oddP,evenP);
+            if(len > maxlen){
+                maxlen = len;
+                start = i- (len-1)/2;
             }
         }
-        
-        return s.substr(start, end - start + 1);
+        return s.substr(start,maxlen);
     }
 };
