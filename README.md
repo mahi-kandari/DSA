@@ -50,6 +50,7 @@
 | [1140-stone-game-ii](https://github.com/mahi-kandari/DSA/tree/master/1140-stone-game-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mahi-kandari/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mahi-kandari/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mahi-kandari/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1539-kth-missing-positive-number](https://github.com/mahi-kandari/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mahi-kandari/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mahi-kandari/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -239,12 +240,14 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mahi-kandari/DSA/tree/master/0200-number-of-islands) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mahi-kandari/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mahi-kandari/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Graph Theory
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mahi-kandari/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mahi-kandari/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mahi-kandari/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mahi-kandari/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -300,6 +303,7 @@
 | [0355-design-twitter](https://github.com/mahi-kandari/DSA/tree/master/0355-design-twitter) |
 | [0630-course-schedule-iii](https://github.com/mahi-kandari/DSA/tree/master/0630-course-schedule-iii) |
 | [1046-last-stone-weight](https://github.com/mahi-kandari/DSA/tree/master/1046-last-stone-weight) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mahi-kandari/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2402-meeting-rooms-iii](https://github.com/mahi-kandari/DSA/tree/master/2402-meeting-rooms-iii) |
 ## Quicksort
@@ -395,6 +399,7 @@
 | [0048-rotate-image](https://github.com/mahi-kandari/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mahi-kandari/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/mahi-kandari/DSA/tree/master/0200-number-of-islands) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mahi-kandari/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## String Matching
 |  |
@@ -475,15 +480,18 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mahi-kandari/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mahi-kandari/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## 0-1 BFS
 |  |
 | ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mahi-kandari/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mahi-kandari/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mahi-kandari/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Bellman–Ford Algorithm
 |  |
