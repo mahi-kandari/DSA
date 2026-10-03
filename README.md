@@ -124,6 +124,7 @@
 | [0013-roman-to-integer](https://github.com/mahi-kandari/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahi-kandari/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahi-kandari/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mahi-kandari/DSA/tree/master/0049-group-anagrams) |
@@ -161,11 +162,13 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahi-kandari/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mahi-kandari/DSA/tree/master/0046-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mahi-kandari/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/mahi-kandari/DSA/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/mahi-kandari/DSA/tree/master/0072-edit-distance) |
@@ -425,6 +428,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
