@@ -125,6 +125,7 @@
 | [0072-edit-distance](https://github.com/mahi-kandari/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/mahi-kandari/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/mahi-kandari/DSA/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/mahi-kandari/DSA/tree/master/0214-shortest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/mahi-kandari/DSA/tree/master/0647-palindromic-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -275,6 +276,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/mahi-kandari/DSA/tree/master/0214-shortest-palindrome) |
 | [0706-design-hashmap](https://github.com/mahi-kandari/DSA/tree/master/0706-design-hashmap) |
 ## Heap (Priority Queue)
 |  |
@@ -384,14 +386,17 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahi-kandari/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/mahi-kandari/DSA/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahi-kandari/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/mahi-kandari/DSA/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahi-kandari/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/mahi-kandari/DSA/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -404,6 +409,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mahi-kandari/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/mahi-kandari/DSA/tree/master/0214-shortest-palindrome) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -492,4 +498,8 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/mahi-kandari/DSA/tree/master/0503-next-greater-element-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/mahi-kandari/DSA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
