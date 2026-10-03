@@ -1,26 +1,23 @@
 class Solution {
 public:
-    int expand(string s, int left, int right){   
-        while(left>=0 && right<s.size() && s[left] == s[right]){
-            
-                left--;
-                right++;
-            
-        }
-        return right - left-1;
-    }
     string longestPalindrome(string s) {
-        int maxlen =1;
-        int len ,  start=0;
-        for(int i = 0;i<s.length();i++){
-            int oddP = expand(s,i,i);
-            int evenP = expand(s,i,i+1);
-            len = max(oddP,evenP);
-            if(len > maxlen){
-                maxlen = len;
-                start = i- (len-1)/2;
+        int n = s.length();
+        if(n<=1) return s;
+        vector<vector<bool>> dp(n,vector<bool>(n,false));
+        int start =0,end =0, maxlen =1;
+        for(int i =0;i<n;i++){
+            dp[i][i]=true;
+            for(int j=0;j<i;j++){
+                if(s[i] == s[j] && (i-j <=2 || dp[j+1][i-1] )){
+                    dp[j][i] = true;
+                    if (i-j+1 > maxlen){
+                        maxlen = i-j+1;
+                        start = j;
+                        end =i;
+                    }
+                }
             }
         }
-        return s.substr(start,maxlen);
+        return s.substr(start , end - start+1);
     }
 };
