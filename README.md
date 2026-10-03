@@ -34,6 +34,7 @@
 | [0260-single-number-iii](https://github.com/mahi-kandari/DSA/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/mahi-kandari/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mahi-kandari/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0403-frog-jump](https://github.com/mahi-kandari/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/mahi-kandari/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/mahi-kandari/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/mahi-kandari/DSA/tree/master/0486-predict-the-winner) |
@@ -169,6 +170,7 @@
 | [0118-pascals-triangle](https://github.com/mahi-kandari/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahi-kandari/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/mahi-kandari/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0403-frog-jump](https://github.com/mahi-kandari/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/mahi-kandari/DSA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/mahi-kandari/DSA/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/mahi-kandari/DSA/tree/master/0647-palindromic-substrings) |
