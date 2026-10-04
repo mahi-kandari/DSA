@@ -108,6 +108,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/mahi-kandari/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/mahi-kandari/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/mahi-kandari/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/mahi-kandari/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mahi-kandari/DSA/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/mahi-kandari/DSA/tree/master/0486-predict-the-winner) |
@@ -191,6 +192,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mahi-kandari/DSA/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/mahi-kandari/DSA/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
