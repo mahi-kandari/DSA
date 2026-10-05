@@ -136,6 +136,7 @@
 | [0214-shortest-palindrome](https://github.com/mahi-kandari/DSA/tree/master/0214-shortest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/mahi-kandari/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/mahi-kandari/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mahi-kandari/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -389,6 +390,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/mahi-kandari/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/mahi-kandari/DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mahi-kandari/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -442,6 +444,7 @@
 | [0022-generate-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mahi-kandari/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mahi-kandari/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Indexed Tree
