@@ -29,6 +29,7 @@
 | [0169-majority-element](https://github.com/mahi-kandari/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mahi-kandari/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/mahi-kandari/DSA/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/mahi-kandari/DSA/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahi-kandari/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/mahi-kandari/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/mahi-kandari/DSA/tree/master/0239-sliding-window-maximum) |
@@ -137,6 +138,7 @@
 | [0115-distinct-subsequences](https://github.com/mahi-kandari/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/mahi-kandari/DSA/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/mahi-kandari/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/mahi-kandari/DSA/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/mahi-kandari/DSA/tree/master/0214-shortest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/mahi-kandari/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/mahi-kandari/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -175,6 +177,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahi-kandari/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mahi-kandari/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mahi-kandari/DSA/tree/master/0046-permutations) |
+| [0212-word-search-ii](https://github.com/mahi-kandari/DSA/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -418,6 +421,7 @@
 | [0048-rotate-image](https://github.com/mahi-kandari/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mahi-kandari/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/mahi-kandari/DSA/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/mahi-kandari/DSA/tree/master/0212-word-search-ii) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mahi-kandari/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mahi-kandari/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## String Matching
@@ -556,4 +560,5 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mahi-kandari/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/mahi-kandari/DSA/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
