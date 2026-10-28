@@ -53,19 +53,16 @@ public:
         Trie* root = new Trie();
         for (const string& word : words) {
             root->insert(word);
-        }
-        
+        }       
         vector<string> result;
         int m = board.size();
-        int n = board[0].size();
-        
+        int n = board[0].size();        
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 string path = "";
                 dfs(board, i, j, root, path, result);
             }
         }
-        
         return result;
     }
 };
