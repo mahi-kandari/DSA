@@ -1,45 +1,52 @@
 class Trie {
 public:
-    vector<Trie*> vec;
-    bool end;
-    
-    Trie() {
-        vec.resize(26, nullptr);
-        end = false;
-    }
-    
-    void insert(string word) {
-        Trie* curr = this;
-        for (char c : word) {
-            int idx = c - 'a';
-            if (curr->vec[idx] == nullptr) {
-                curr->vec[idx] = new Trie();
+    struct Node {
+        Node* child[26];
+        bool end;
+        Node() {
+            end = false;
+            for(int i = 0; i < 26; i++) {
+                child[i] = nullptr;
             }
-            curr = curr->vec[idx];
+        }
+    };
+    Node* root;
+    Trie() {
+        root = new Node();
+    }
+
+    void insert(string word) {
+        Node* curr = root;
+        for(char ch : word) {
+            int index = ch - 'a';
+            if(curr->child[index] == nullptr) {
+                curr->child[index] = new Node();
+            }
+
+            curr = curr->child[index];
         }
         curr->end = true;
     }
-    
     bool search(string word) {
-        Trie* curr = this;
-        for (char c : word) {
-            int idx = c - 'a';
-            if (curr->vec[idx] == nullptr) {
+        Node* curr = root;
+
+        for(char ch : word) {
+            int index = ch - 'a';
+            if(curr->child[index] == nullptr) {
                 return false;
             }
-            curr = curr->vec[idx];
+            curr = curr->child[index];
         }
         return curr->end;
     }
-    
     bool startsWith(string prefix) {
-        Trie* curr = this;
-        for (char c : prefix) {
-            int idx = c - 'a';
-            if (curr->vec[idx] == nullptr) {
+        Node* curr = root;
+        for(char ch : prefix) {
+            int index = ch - 'a';
+            if(curr->child[index] == nullptr) {
                 return false;
             }
-            curr = curr->vec[idx];
+            curr = curr->child[index];
         }
         return true;
     }
