@@ -5,21 +5,19 @@ public:
         bool end;
         Node() {
             end = false;
-            for(int i = 0; i < 26; i++) {
+            for (int i = 0; i < 26; i++) {
                 child[i] = nullptr;
             }
         }
     };
     Node* root;
-    Trie() {
-        root = new Node();
-    }
+    Trie() { root = new Node(); }
 
     void insert(string word) {
         Node* curr = root;
-        for(char ch : word) {
+        for (char ch : word) {
             int index = ch - 'a';
-            if(curr->child[index] == nullptr) {
+            if (curr->child[index] == nullptr) {
                 curr->child[index] = new Node();
             }
 
@@ -30,9 +28,9 @@ public:
     bool search(string word) {
         Node* curr = root;
 
-        for(char ch : word) {
+        for (char ch : word) {
             int index = ch - 'a';
-            if(curr->child[index] == nullptr) {
+            if (curr->child[index] == nullptr) {
                 return false;
             }
             curr = curr->child[index];
@@ -41,9 +39,9 @@ public:
     }
     bool startsWith(string prefix) {
         Node* curr = root;
-        for(char ch : prefix) {
+        for (char ch : prefix) {
             int index = ch - 'a';
-            if(curr->child[index] == nullptr) {
+            if (curr->child[index] == nullptr) {
                 return false;
             }
             curr = curr->child[index];
